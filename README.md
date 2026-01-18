@@ -1,5 +1,24 @@
 <h1 align="center">Hey 👋, I'm Bhavya Parekh</h1>
-<h3 align="center">Passionate about Data Science and eager to expand my knowledge and skills in the field With a ML , DL, competitive programming, I'm dedicated to leveraging data-driven insights for impactful decision-making, problem analysis, collaborate and contribute to innovative data-driven solutions. Open to networking and exploring opportunities in the data science realm.</h3>
+<h3 align="center">I am passionate about software development, data science, machine learning, Large Language Models (LLM), Generative Adversarial Networks (GANs), Natural Language Processing (NLP), Computer Vision, RAG, Transfer Learning, Image Classification, and Deep Neural Networks (DNNs) to build innovative and impactful solutions with a strong foundation in mathematics and problem-solving. My journey has been shaped by academic excellence, hands-on projects, and internships that allowed me to apply theory into real-world solutions.
+
+I have worked on projects ranging from fault detection in rotating machinery using ML-CNN, hand gesture recognition using deep learning, to building complete solutions integrating React (frontend) and Flask (backend). I also developed a VGG-based face recognition human attendance system and worked on BMI calculator applications with Spring Boot and React.
+
+My experience spans across research, industry, and social impact. At ISRO, I contributed as a Research Intern by executing preprocessing, geospatial analysis, and feature extraction on oceanographic satellite datasets, improving sea-level characteristic assessment accuracy to 96%. During my role as a Software Developer at Sharda Social Welfare Trust, I engineered full-stack donor management systems (React, Spring Boot, MySQL), automated pipelines, and notification modules, boosting efficiency and engagement for 1,200+ beneficiaries. As a Machine Learning Intern at Feynn Labs, I worked on customer segmentation using k-means clustering, empowering the company to optimize marketing strategies and visualize insights with interactive dashboards.
+
+
+Technical Skills:
+
+Programming: Python, Java, C, C++, JavaScript, Dart
+
+Web & App Development: React.js, Node.js, Flask, Spring Boot, REST APIs, Hibernate.
+
+Data Science: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, NLP, Computer Vision, GANs, Data Visualization (Matplotlib, Seaborn, Plotly), Statistical Analysis, Feature Engineering, Predictive Modeling.
+
+Big Data & Cloud: AWS, Apache Spark, Hadoop, Apache Kafka
+
+DevOps & Tools: Docker, Kubernetes, Jenkins, Ansible, Grafana, Prometheus, Git, Jira, Postman
+
+Databases: MySQL, PostgreSQL, Oracle, MongoDB, Firebase</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
