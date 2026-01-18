@@ -1,24 +1,83 @@
 <h1 align="center">Hey 👋, I'm Bhavya Parekh</h1>
-<h3 align="center">I am passionate about software development, data science, machine learning, Large Language Models (LLM), Generative Adversarial Networks (GANs), Natural Language Processing (NLP), Computer Vision, RAG, Transfer Learning, Image Classification, and Deep Neural Networks (DNNs) to build innovative and impactful solutions with a strong foundation in mathematics and problem-solving. My journey has been shaped by academic excellence, hands-on projects, and internships that allowed me to apply theory into real-world solutions.
 
-I have worked on projects ranging from fault detection in rotating machinery using ML-CNN, hand gesture recognition using deep learning, to building complete solutions integrating React (frontend) and Flask (backend). I also developed a VGG-based face recognition human attendance system and worked on BMI calculator applications with Spring Boot and React.
+<h3 align="center">
+Passionate Software Developer | Data Scientist | Machine Learning & AI Enthusiast
+</h3>
 
-My experience spans across research, industry, and social impact. At ISRO, I contributed as a Research Intern by executing preprocessing, geospatial analysis, and feature extraction on oceanographic satellite datasets, improving sea-level characteristic assessment accuracy to 96%. During my role as a Software Developer at Sharda Social Welfare Trust, I engineered full-stack donor management systems (React, Spring Boot, MySQL), automated pipelines, and notification modules, boosting efficiency and engagement for 1,200+ beneficiaries. As a Machine Learning Intern at Feynn Labs, I worked on customer segmentation using k-means clustering, empowering the company to optimize marketing strategies and visualize insights with interactive dashboards.
+<p align="justify">
+I am passionate about software development, data science, machine learning, Large Language Models (LLMs), Generative Adversarial Networks (GANs), Natural Language Processing (NLP), Computer Vision, Retrieval-Augmented Generation (RAG), Transfer Learning, Image Classification, and Deep Neural Networks (DNNs). I enjoy building innovative and impactful solutions backed by a strong foundation in mathematics and problem-solving.
+</p>
 
+<p align="justify">
+My journey has been shaped by academic excellence, hands-on projects, and internships where I applied theoretical concepts to real-world problems. I have worked on projects ranging from fault detection in rotating machinery using ML-CNN, hand gesture recognition using deep learning, to full-stack applications integrating React (frontend) and Flask (backend). I also developed a VGG-based face recognition human attendance system and BMI calculator applications using Spring Boot and React.
+</p>
 
-Technical Skills:
+<p align="justify">
+My experience spans research, industry, and social impact. At <b>ISRO</b>, I contributed as a Research Intern by executing preprocessing, geospatial analysis, and feature extraction on oceanographic satellite datasets, improving sea-level characteristic assessment accuracy to <b>96%</b>. As a <b>Software Developer</b> at Sharda Social Welfare Trust, I engineered full-stack donor management systems (React, Spring Boot, MySQL), automated pipelines, and notification modules, improving efficiency for <b>1,200+</b> beneficiaries. Additionally, as a <b>Machine Learning Intern</b> at Feynn Labs, I worked on customer segmentation using k-means clustering, enabling optimized marketing strategies through interactive dashboards.
+</p>
 
-Programming: Python, Java, C, C++, JavaScript, Dart
+<hr/>
 
-Web & App Development: React.js, Node.js, Flask, Spring Boot, REST APIs, Hibernate.
+<h2 align="center">🛠️ Technical Skills</h2>
 
-Data Science: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, NLP, Computer Vision, GANs, Data Visualization (Matplotlib, Seaborn, Plotly), Statistical Analysis, Feature Engineering, Predictive Modeling.
+<h3>💻 Programming Languages</h3>
+<ul>
+  <li>Python</li>
+  <li>Java</li>
+  <li>C</li>
+  <li>C++</li>
+  <li>JavaScript</li>
+  <li>Dart</li>
+</ul>
 
-Big Data & Cloud: AWS, Apache Spark, Hadoop, Apache Kafka
+<h3>🌐 Web & App Development</h3>
+<ul>
+  <li>React.js</li>
+  <li>Node.js</li>
+  <li>Flask</li>
+  <li>Spring Boot</li>
+  <li>REST APIs</li>
+  <li>Hibernate</li>
+</ul>
 
-DevOps & Tools: Docker, Kubernetes, Jenkins, Ansible, Grafana, Prometheus, Git, Jira, Postman
+<h3>📊 Data Science & Machine Learning</h3>
+<ul>
+  <li>Pandas, NumPy, Scikit-learn</li>
+  <li>TensorFlow, Keras, PyTorch</li>
+  <li>NLP, Computer Vision, GANs</li>
+  <li>Feature Engineering & Predictive Modeling</li>
+  <li>Data Visualization (Matplotlib, Seaborn, Plotly)</li>
+  <li>Statistical Analysis</li>
+</ul>
 
-Databases: MySQL, PostgreSQL, Oracle, MongoDB, Firebase</h3>
+<h3>☁️ Big Data & Cloud</h3>
+<ul>
+  <li>AWS</li>
+  <li>Apache Spark</li>
+  <li>Hadoop</li>
+  <li>Apache Kafka</li>
+</ul>
+
+<h3>⚙️ DevOps & Tools</h3>
+<ul>
+  <li>Docker</li>
+  <li>Kubernetes</li>
+  <li>Jenkins</li>
+  <li>Ansible</li>
+  <li>Grafana</li>
+  <li>Prometheus</li>
+  <li>Git, Jira, Postman</li>
+</ul>
+
+<h3>🗄️ Databases</h3>
+<ul>
+  <li>MySQL</li>
+  <li>PostgreSQL</li>
+  <li>Oracle</li>
+  <li>MongoDB</li>
+  <li>Firebase</li>
+</ul>
+
 
 <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
