@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bhavya Parekh</h1>
+<h1 align="center">Hey 👋, I'm Bhavya Parekh</h1>
 <h3 align="center">Passionate about Data Science and eager to expand my knowledge and skills in the field With a ML , DL, competitive programming, I'm dedicated to leveraging data-driven insights for impactful decision-making, problem analysis, collaborate and contribute to innovative data-driven solutions. Open to networking and exploring opportunities in the data science realm.</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
-- 🔭 I’m currently working on Research based Project **Human Attendence System**
+- 🔭 I’m currently working as aResearch Assistant at  **Indiana University Bloomington**
 
 - 📫 How to reach me **baparekh03@gmail.com**
 
