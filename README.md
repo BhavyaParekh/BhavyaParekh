@@ -1,22 +1,23 @@
 <h1 align="center">Hey 👋, I'm Bhavya Parekh</h1>
 
 <h3 align="center">
-Passionate Software Developer | Data Scientist | Machine Learning & AI Enthusiast
+Software Developer | Data Scientist | Machine Learning & AI Researcher
 </h3>
 
 <p align="justify">
-I am passionate about software development, data science, machine learning, Large Language Models (LLMs), Generative Adversarial Networks (GANs), Natural Language Processing (NLP), Computer Vision, Retrieval-Augmented Generation (RAG), Transfer Learning, Image Classification, and Deep Neural Networks (DNNs). I enjoy building innovative and impactful solutions backed by a strong foundation in mathematics and problem-solving.
+I am a highly motivated software developer and machine learning researcher with a strong focus on data science, artificial intelligence, and scalable system design. My core interests include Machine Learning, Deep Learning, Large Language Models (LLMs), Neuro-Symbolic AI, Natural Language Processing (NLP), Computer Vision, Retrieval-Augmented Generation (RAG), and spatio-temporal modeling. I enjoy transforming complex data-driven problems into robust, real-world solutions using a solid foundation in mathematics, statistics, and algorithmic thinking.
 </p>
 
 <p align="justify">
-My journey has been shaped by academic excellence, hands-on projects, and internships where I applied theoretical concepts to real-world problems. I have worked on projects ranging from fault detection in rotating machinery using ML-CNN, hand gesture recognition using deep learning, to full-stack applications integrating React (frontend) and Flask (backend). I also developed a VGG-based face recognition human attendance system and BMI calculator applications using Spring Boot and React.
+Currently, I am pursuing a <b>Master of Science in Computer Science</b> at <b>Indiana University Bloomington</b>, maintaining a perfect <b>GPA of 4.0</b>. My academic journey is complemented by hands-on research and industry experience, where I have worked on projects involving machine vibration fault detection, mobile healthcare diagnostics, and large-scale energy forecasting systems. I have built and deployed end-to-end applications using modern stacks such as <b>React, Spring Boot, Flask, Flutter</b>, and cloud-native tools.
 </p>
 
 <p align="justify">
-My experience spans research, industry, and social impact. At <b>ISRO</b>, I contributed as a Research Intern by executing preprocessing, geospatial analysis, and feature extraction on oceanographic satellite datasets, improving sea-level characteristic assessment accuracy to <b>96%</b>. As a <b>Software Developer</b> at Sharda Social Welfare Trust, I engineered full-stack donor management systems (React, Spring Boot, MySQL), automated pipelines, and notification modules, improving efficiency for <b>1,200+</b> beneficiaries. Additionally, as a <b>Machine Learning Intern</b> at Feynn Labs, I worked on customer segmentation using k-means clustering, enabling optimized marketing strategies through interactive dashboards.
+My professional experience spans research, industry, and social impact. As a <b>Research Assistant</b> at Indiana University Bloomington, I am working on <b>neuro-symbolic spatio-temporal energy forecasting</b> using <b>Logic Tensor Networks (LTN)</b>, integrating neural models with physical laws to improve reliability in industrial power systems. Previously, as a <b>Research Intern at ISRO</b>, I conducted preprocessing, geospatial analysis, and feature extraction on satellite-based oceanographic datasets, achieving <b>96% reliability</b> in sea-level characteristic assessment. As a <b>Software Developer</b> at Sharda Social Welfare Trust, I engineered scalable full-stack donor and beneficiary management systems serving <b>1,200+ users</b>, while automating pipelines that reduced manual workload by <b>40%</b>. Additionally, during my <b>Machine Learning Internship at Feynn Labs</b>, I applied k-means clustering for customer segmentation, enabling data-driven marketing strategies and reducing campaign costs by <b>10%</b>.
 </p>
 
 <hr/>
+
 
 <h2 align="center">🛠️ Technical Skills</h2>
 
