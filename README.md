@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Bhavya Parekh</h1>
 
 <h3 align="center">
-Software Developer | Data Scientist | Machine Learning & AI Researcher
+Software Developer | AI/ML Engineer | Data Analyst |  AI Researcher
 </h3>
 
 <p align="justify">
